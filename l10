@@ -1,0 +1,6 @@
+Oscar Zhang - CS265 - Lab10
+
+Questions: 
+	To initialize a new Git repository, use git init; to create a new branch, use git branch <branch-name> or git checkout -b <branch-name>; to view the commit history, use git log; to stage changes, use git add <file-name> or git add .; to resolve a merge conflict, manually edit the conflicting files, mark them as resolved with git add, and commit the changes; to push changes to a remote repository, use git push <remote-name> <branch-name>; the difference between git fetch and git pull is that git fetch downloads changes without applying them, while git pull downloads and applies them immediately; and to revert an unstaged change, use git checkout -- <file-name>.
+
+Link: https://github.com/ozcar9975/git-lab
